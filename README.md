@@ -20,11 +20,6 @@ Sana: Data Scientist
 Marouane: ML engineer
 Karim: Product Manager
 
-mmendation.
-Develop and integrate chatbot models using NLP techniques.
-Optimize models for scalability and efficiency.
-Collaborate with MLOps Engineers for model deployment.
-
 ## Deliverables Timeline:
 The project will be delivered in a phased approach with the following milestones:
 Data Collection and Preprocessing: 1.5 weeks
