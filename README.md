@@ -20,13 +20,15 @@ Version Control: Github
 # Members:
 Mariana: Data Scientist
 
-Sana: Data Scientist
+Zaid: Data Scientist
 
 Marouane: ML engineer
 
 Karim: Product Manager
 
 Marc: MLOPS engineer 
+
+Sana: Data Engineer
 
 ## Deliverables Timeline:
 The project will be delivered in a phased approach with the following milestones:
