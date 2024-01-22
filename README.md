@@ -26,6 +26,8 @@ Marouane: ML engineer
 
 Karim: Product Manager
 
+Marc: MLOPS engineer 
+
 ## Deliverables Timeline:
 The project will be delivered in a phased approach with the following milestones:
 Data Collection and Preprocessing: 1.5 weeks
