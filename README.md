@@ -10,14 +10,20 @@ The IE University community lacks an efficient platform for meaningful connectio
 
 ## Tools and libraries expected to be used:
 Machine Learning Libraries: TensorFlow, PyTorch
+
 Natural Language Processing (NLP) Libraries: NLTK, spaCy
+
 Database: Flask
+
 Version Control: Github
 
 # Members:
 Mariana: Data Scientist
+
 Sana: Data Scientist
+
 Marouane: ML engineer
+
 Karim: Product Manager
 
 ## Deliverables Timeline:
